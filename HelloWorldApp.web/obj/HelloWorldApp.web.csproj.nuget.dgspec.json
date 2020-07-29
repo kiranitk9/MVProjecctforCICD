@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\inrvenk1\\Desktop\\Learning\\PracticeADO\\CICD\\HelloworldApp\\HelloWorldApp.Web\\HelloWorldApp.Web.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\inrvenk1\\Desktop\\Learning\\PracticeADO\\CICD\\HelloworldApp\\HelloWorldApp.Web\\HelloWorldApp.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\inrvenk1\\Desktop\\Learning\\PracticeADO\\CICD\\HelloworldApp\\HelloWorldApp.Web\\HelloWorldApp.Web.csproj",
+        "projectName": "HelloWorldApp.Web",
+        "projectPath": "C:\\Users\\inrvenk1\\Desktop\\Learning\\PracticeADO\\CICD\\HelloworldApp\\HelloWorldApp.Web\\HelloWorldApp.Web.csproj",
+        "packagesPath": "C:\\Users\\inrvenk1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\inrvenk1\\Desktop\\Learning\\PracticeADO\\CICD\\HelloworldApp\\HelloWorldApp.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\inrvenk1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\inrvenk1\\Desktop\\VTSAutomationPackages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
